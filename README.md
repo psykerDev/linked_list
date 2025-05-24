@@ -33,6 +33,7 @@ The program demonstrates:
 - Traversing and printing the list after each operation
 
 ## Example Output
+```bash
 
 After inserting 30, 20, 10 at head:
 30 -> 20 -> 10 -> NULL
@@ -46,6 +47,3 @@ After inserting 25 after 10:
 After deleting node with value 20:
 30 -> 10 -> 25 -> 40 -> 50 -> NULL
 
-## Author
-
-Your Name
